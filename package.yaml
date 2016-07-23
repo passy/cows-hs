@@ -1,12 +1,12 @@
-name: cows
+name: ascii-cows
 version: 0.0.1.0
-synopsis: Moo.
+synopsis: A collection of ASCII cows. Moo.
 description: Please see README.md
 homepage: http://github.com/passy/cows-hs
 license: BSD3
 author: Pascal Hartig
 maintainer: Pascal Hartig <phartig@rdrei.net>
-category: Console
+category: Acme
 extra-source-files:
   - stack.yaml
   - README.md
