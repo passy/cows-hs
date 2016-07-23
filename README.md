@@ -1,4 +1,5 @@
 # cows
+[![Build Status](https://travis-ci.org/passy/cows-hs.svg?branch=master)](https://travis-ci.org/passy/cows-hs)
 
 > 400+ ASCII 🐮s
 
@@ -7,7 +8,6 @@
 > import Data.Random.RVar (runRVar)
 > import Data.Random.Source.DevRandom (DevRandom(DevURandom))
 > import qualified Data.Text.IO as TIO
-> runRVar randomCow DevURandom
 > TIO.putStrLn =<< runRVar randomCow DevURandom
 ```
 
