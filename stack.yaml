@@ -4,4 +4,4 @@ packages:
 - '.'
 extra-deps:
 - random-extras-0.19
-resolver: nightly-2016-07-17
+resolver: lts-7.5
