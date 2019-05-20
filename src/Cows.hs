@@ -4,9 +4,9 @@ module Cows
     , randomCow
     ) where
 
-import           Cows.All          (allCows)
-import           Cows.Types        (Cow)
-import           Data.Random       (RVar)
+import           Cows.All           (allCows)
+import           Cows.Types         (Cow)
+import           Data.Random        (RVar)
 import           Data.Random.Extras (choice)
 
 {-| Get a random cow from a uniform distribution.
